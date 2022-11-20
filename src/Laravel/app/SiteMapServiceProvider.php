@@ -3,9 +3,9 @@
 namespace B2bcat\SiteMap\Laravel;
 
 use Spatie\LaravelPackageTools\Package;
-use Spatie\LaravelPackageTools\PackageServiceProvider;
+use Illuminate\Support\ServiceProvider;
 
-class SiteMapServiceProvider extends PackageServiceProvider
+class SiteMapServiceProvider extends ServiceProvider
 {
     /**
      * @param Package $package
