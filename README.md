@@ -1,9 +1,9 @@
 # Site map generator
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/b2bcat/test-sitemap.svg?style=flat-square)](https://packagist.org/packages/b2bcat/test-sitemap)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/b2bcat/test-sitemap/run-tests?label=tests)](https://github.com/b2bcat/test-sitemap/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/b2bcat/test-sitemap/Fix%20PHP%20code%20style%20issues?label=code%20style)](https://github.com/b2bcat/test-sitemap/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
-[![Total Downloads](https://img.shields.io/packagist/dt/b2bcat/test-sitemap.svg?style=flat-square)](https://packagist.org/packages/b2bcat/test-sitemap)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/b2bcat/sitemap.svg?style=flat-square)](https://packagist.org/packages/b2bcat/sitemap)
+[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/b2bcat/sitemap/run-tests?label=tests)](https://github.com/b2bcat/sitemap/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/b2bcat/sitemap/Fix%20PHP%20code%20style%20issues?label=code%20style)](https://github.com/b2bcat/sitemap/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
+[![Total Downloads](https://img.shields.io/packagist/dt/b2bcat/sitemap.svg?style=flat-square)](https://packagist.org/packages/b2bcat/sitemap)
 
 ## Installation
 
